@@ -1,2 +1,0 @@
-# Ration-Shop
-mini project
